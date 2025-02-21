@@ -1,30 +1,33 @@
-# PROYECTO FINAL: Landing Page de Maquetación web
+# PROYECTO
 
-Este repositorio contiene una landing page realizada en HTML y CSS parte del curso de MAQUETACIÓN WEB dado por Sergie Code para Digital House.
+Landing Page: Proyecto Final de Maquetación Web
 
-## Uso
+Este repositorio contiene el proyecto de una landing page desarrollada con HTML y CSS como parte del curso de Maquetación Web impartido por Sergie Code para Digital House.
 
-1.  Clone el repositorio haciendo `git clone https://github.com/digitalhouse-content/proyecto-final-maquetacion-web`
-2.  Abra el proyecto en su editor de código
-3.  Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
+🚀 Vista Previa
 
-## Requiere:
+Puedes ver la landing page en acción abriendo el proyecto con Live Server o explorando directamente los archivos HTML y CSS.
 
--   **LIVE SERVER**: Extensión de Visual Studio Code
--   **GIT**: Debe tener Instalado GIT
+📂 Clonar el Proyecto
 
-## Acerca del curso de Maquetación Web
-En este curso comenzarás desde cero en el mundo del código y adquirirás el conocimiento suficiente para tener tu propia web al finalizar el mismo
+Sigue estos pasos para tener el proyecto en tu máquina local:
 
-# Acerca de SERGIE CODE:
-#### ¡Hola! ¡Yo soy Sergie Code y soy Software Engineer! Soy tech lead de un team Frontend con el cual hacemos desarrollos especializados en empresas de Seguros. También me dedico a la divulgación de tecnología, programación e Inteligencia Artificial por redes sociales. Con mucho orgullo he podido dar clases en la Universidad y además en diversos cursos online acerca de desarrollo web
+git clone https://github.com/Catherinesolarte/proyecto-final-maquetacion-web-Publicweb
 
-Me pueden encontrar en: 
+	1.	Abre el proyecto en tu editor de código preferido (recomendado Visual Studio Code).
+	2.	Haz clic derecho en el archivo index.html y selecciona “Open with Live Server” para ver el proyecto en tu navegador.
 
-[Canal de Youtube | Sergie Code](https://www.youtube.com/@SergieCode)
+🛠 Requisitos Previos
 
-[Github | Sergie Code](https://github.com/sergiecode)
+Asegúrate de tener instalados los siguientes programas y extensiones:
+	•	Visual Studio Code
+	•	Extensión Live Server
+	•	Git
 
-[LinkedIn | Sergie Code](https://www.linkedin.com/in/sergiecode/)
+👩‍💻 Conectemos
 
-[Instagram | Sergie Code](https://www.instagram.com/sergiecode)
+¡Sígueme en mis redes para más contenido de desarrollo web y tecnología!
+	•	YouTube: @cathedev
+	•	GitHub: https://github.com/catherinesolarte
+	•	LinkedIn: https://www.linkedin.com/in/catherine-solarte/
+
